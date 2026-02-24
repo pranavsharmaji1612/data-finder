@@ -1,0 +1,13 @@
+{
+    "expenses": [
+        {
+            "type": "Expense",
+            "amount": 459.0,
+            "category": "Transportation",
+            "description": "cab",
+            "date": "2026-02-08 14:41:59"
+        }
+    ],
+    "income": [],
+    "budget": {}
+}
